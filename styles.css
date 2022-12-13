@@ -193,19 +193,18 @@ ul li :hover{
         text-align: center;
         margin-left: -223px;
         text-decoration-color: white;
-        height: 81px;
-        width: 878px;
+        height: 76px;
+        width: 292px;
         display: flex;
         flex-direction: column;
         background: none;
         border-radius: 30px;
-        font-size: 57px;
-        margin-top: 269px;
-        color: #ff93ff;}
+        font-size: 25px;
+        margin-top: 24px;}
         ul {
             color: rgb(148, 63, 227);
             font-family: 'Bangers', cursive;
-            margin-top: 18px;
+            margin-top: 32px;
             display: flex;
             flex-direction: column;
             align-content: flex-start;
@@ -214,20 +213,21 @@ ul li :hover{
             align-items: center;
         }
         ul li {
+            height: 13px;
             border-color: yellow;
             color: white;
             list-style-type: none;
-            margin-left: 50px;
+            margin-left: -182px;
             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
             padding: 21px;
-            height: 37px;
-            width: 243px;
+            height: -24px;
+            width: 153px;
             display: flex;
             flex-direction: column;
             background-color: rgb(42 38 153);
-            border-radius: 40px;
-            font-size: 37px;
-            margin-top: 110px;
+            border-radius: 26px;
+            font-size: 18px;
+            margin-top: 24px;
             text-align: center;
         }
         ul li label{
@@ -240,24 +240,25 @@ ul li :hover{
     margin-top: -60px;}
     #scoreCount {
         font-family: 'Orbitron', sans-serif;
-        margin-top: -116px;
+        margin-top: -128px;
         top: 51px;
-        font-size: 55px;
+        font-size: 30px;
         color: #e2dff3;
-        margin-left: -151px;
+        margin-left: -222px;
     }
-    #scoreCCount { font-family: 'Orbitron', sans-serif;
-    margin-top: -74px;
+    #scoreCCount { 
+        font-family: 'Orbitron', sans-serif;
+    margin-top: -41px;
     top: 51px;
-    font-size: 57px;
+    font-size: 33px;
     color: #e2dff3;
-    margin-left: 76vw;
-}
+    margin-left: -17vw;
+    }
 
 .button-64 {
     border-radius: 91px;
     width: 69px;
-    margin-top: 75px;
+    margin-top: 30px;
     align-items: center;
     background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
     border: 0;
@@ -267,7 +268,7 @@ ul li :hover{
     color: #FFFFFF;
     display: flex;
     font-family: Phantomsans, sans-serif;
-    font-size: 37px;
+    font-size: 19px;
     justify-content: center;
     line-height: 1em;
     max-width: 100%;
@@ -279,19 +280,36 @@ ul li :hover{
     touch-action: manipulation;
     white-space: nowrap;
     cursor: pointer;
-    height: 36px;
-    width: 443px;
-    margin-left: -21px;
+    height: 16px;
+    width: 220px;
+    margin-left: -195px;
 }
 
 
 
 
     .body {
-        background-image: url(bck2.png);
-        height: 299vh;
-        width: 314vw;
+        background-image: url(bck.png);
+       width: 360px;
+       height: 720px;
+    }
+
+    .logo img{
+        width: 354px;
+        margin-top: 14px;
+        margin-left: -212px;
+    }
+    .container {
+        margin-left: 231px;
+        padding: 26px;
+        height: 470px;
+        width: 402px;
+        display: flex;
+        flex-direction: column;
+        background: none;
+        margin-top: -54px;
     }
 
 }
+
 
